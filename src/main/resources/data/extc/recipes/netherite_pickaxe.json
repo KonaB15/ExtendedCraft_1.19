@@ -1,0 +1,21 @@
+{
+  "type": "extc:tool_upgrade",
+  "pattern": [
+    " # ",
+    "#P#",
+    " # "
+  ],
+  "ingredients": [
+    {
+      "P": {
+        "item": "extc:diamond_pickaxe"
+      },
+      "#": {
+        "item": "minecraft:netherite_ingot"
+      }
+    }
+  ],
+  "output": {
+    "item": "extc:netherite_pickaxe"
+  }
+}

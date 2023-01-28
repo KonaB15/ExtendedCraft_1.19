@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "extc:exblock",
+    "extc:konium_ore",
+    "extc:konium_block"
+  ]
+}
